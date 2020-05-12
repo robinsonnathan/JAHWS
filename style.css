@@ -1,9 +1,3 @@
-/* commenting this class out to use an html selector instead until needed*/ 
-
-/* .title {
-    text-align: center;
-} */
-
-h1 {
+.title {
     text-align: center;
 }
