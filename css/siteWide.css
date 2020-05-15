@@ -1,5 +1,14 @@
 /* Black Background while Under Development */
+
+/* 
+Default text color for dark theme: #ffffff
+High-emphasis text = opacity of 87%
+Medium emphasis text = opacity at 60%
+Disabled text = opacity of 38%.
+*/
+
 body {
-    background-color: rgba(126, 123, 123, 0.733);
-    color: white;
+    background-color: #121212;
+    color: #ffffff;
+    display: block;
 }
